@@ -37,19 +37,19 @@
 ### ✦ QUICK LINKS
 - [Portfolio](#) <!-- Replace # with your portfolio URL -->
 - [GitHub Repositories](https://github.com/Rafff-byte?tab=repositories)
-- [LinkedIn](#) <!-- Add your LinkedIn URL -->
-- [Email](mailto:your.email@example.com) <!-- Replace with your email -->
+- [LinkedIn](www.linkedin.com/in/tahmim-khan-raf
+
+) <!-- Add your LinkedIn URL -->
+- [Email](tahmimkhan1997@gmail.com <!-- Replace with your email -->
 
 </td>
 <td width="66%" valign="top">
 
 ## `01` — SYSTEM PROFILE
 
-Hi! I'm **Tahmim Khan Rafi**, a Computer Science & Engineering graduate excited to start building real-world software.
-
-I'm especially interested in **Python** — the language I've used most for projects, problem-solving, and exploring how things work. I'm also getting hands-on with **SQL** and learning how data fits into the bigger picture.
-
-I value curiosity, consistency, clean code, and breaking complex problems into smaller steps. I'm currently looking for an opportunity to grow, contribute, and learn alongside people who care about building good software.
+Just graduated with a degree in Computer Science & Engineering, and I’m excited to start building for real. I’m especially into Python,it's the language I’ve used most for projects, problem-solving, and just exploring how things work. I’ve also started getting hands-on with SQL and understanding how data fits into the bigger picture.
+I’ve spent time working on small projects, writing clean code, and learning to break problems down step by step. I make up for what I might lack in years of experience with curiosity, consistency, and the drive to keep improving.
+Right now, I’m looking for an opportunity where I can grow, contribute, and be around people who care about building good software. If you're working on something interesting, I’d love to be a part of it.
 
 > **MISSION:** Keep learning. Build useful things. Improve every day.
 
