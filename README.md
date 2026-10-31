@@ -37,8 +37,8 @@
 ### ✦ QUICK LINKS
 - [Portfolio](#) <!-- Replace # with your portfolio URL -->
 - [GitHub Repositories](https://github.com/Rafff-byte?tab=repositories)
-- [LinkedIn](#)(www.linkedin.com/in/tahmim-khan-raf) <!-- Add your LinkedIn URL -->
-- [Email](tahmimkhan1997@gmail.com <!-- Replace with your email -->
+- [LinkedIn](#)www.linkedin.com/in/tahmim-khan-raf <!-- Add your LinkedIn URL -->
+- [Email](#)tahmimkhan1997@gmail.com <!-- Replace with your email -->
 
 </td>
 <td width="66%" valign="top">
